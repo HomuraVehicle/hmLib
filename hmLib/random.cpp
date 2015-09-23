@@ -1,4 +1,4 @@
-﻿#ifndef HMLIB_RANDOM_CPP_INC
+#ifndef HMLIB_RANDOM_CPP_INC
 #define HMLIB_RANDOM_CPP_INC 207
 #
 /*

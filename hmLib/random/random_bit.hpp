@@ -1,4 +1,4 @@
-﻿#ifndef HMLIB_RANDOM_RANDOMBIT_INC
+#ifndef HMLIB_RANDOM_RANDOMBIT_INC
 #define HMLIB_RANDOM_RANDOMBIT_INC 100
 #
 /*===random_bit===

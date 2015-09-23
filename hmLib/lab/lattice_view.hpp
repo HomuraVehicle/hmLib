@@ -1,4 +1,4 @@
-﻿#ifndef HMLIB_LATTICEVIEW_INC
+#ifndef HMLIB_LATTICEVIEW_INC
 #define HMLIB_LATTICEVIEW_INC 100
 #
 #include<iterator>
